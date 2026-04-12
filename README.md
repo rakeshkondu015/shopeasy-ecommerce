@@ -1,4 +1,4 @@
-# 🛒 ShopEasy – Full Stack E-Commerce Platform
+# 🛒 EasyCart – Full Stack E-Commerce Platform
 
 A simple full-stack e-commerce application with two roles:
 - **Admin** – Full CRUD on products, view and delete users
